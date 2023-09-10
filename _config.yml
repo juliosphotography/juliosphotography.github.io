@@ -10,14 +10,14 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Olga Cabrera
   pic: 1
-  position: Lead Designer
+  position: Photographer Assistant
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/olga.cabrera.1004
     - title: stack-overflow
       url: #
 
@@ -32,12 +32,12 @@ people:
     - title: Linkedin
       url: #
 
-- name: Diana Petersen
+- name: Janina Guarquila
   pic: 3
-  position: Lead Developer
+  position: Photographer Manager
   social:
-    - title: twitter
-      url: #
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/janinaguarquila
     - title: facebook
       url: #
     - title: google-plus
